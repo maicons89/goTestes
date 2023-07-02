@@ -1,0 +1,10 @@
+Quais as diferenças entre a caixa branca e a caixa preta?
+
+Caixa Branca: Geralmente é aplicado para testar o fluxo, segurança e estrutura do código. Podem ser aplicados através de testes unitários
+e testes de integração.
+
+Caixa Preta: É um metódo de teste em que a estrutura, projeto ou operação interna é desconhecida pela pessoa que executa o teste.
+Podem ser aplicados em testes funcionais, testes não funcionais e testes de regressão.
+
+
+

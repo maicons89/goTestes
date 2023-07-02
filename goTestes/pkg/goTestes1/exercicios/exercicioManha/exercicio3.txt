@@ -1,0 +1,4 @@
+O que é um teste de integração?
+
+São aqueles testes que testam a comunicação entre diferente componentes ou camadas da aplição. O objetivo é verificar se todos aqueles blocos
+de código que foram testados de forma unitária, interagem e se comunicam entre si, gerando os resultados
